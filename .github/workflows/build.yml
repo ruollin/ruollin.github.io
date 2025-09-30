@@ -24,7 +24,7 @@ jobs:
 
     - name: Patch theme text
       run: |
-        sed -i 's/自豪地使用 %s 主题/using var theme = new %s();' node_modules/hexo-theme-kratos-rebirth/languages/zh-CN.yml
+        sed -i 's|自豪地使用 %s 主题|using var theme = new %s();|' node_modules/hexo-theme-kratos-rebirth/languages/zh-CN.yml
 
     - name: Checkout repo
       uses: actions/checkout@v4
