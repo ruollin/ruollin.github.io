@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'Kratos : Rebirth'
-subtitle: '一个可爱而现代的 Hexo 主题'
-description: '欢迎使用这个主题，希望能给您带来美好的体验。'
+title: '若琳酱 | Ruollin'
+subtitle: '我仍然在无人问津的阴雨霉湿之地'
+description: '我仍然在无人问津的阴雨霉湿之地'
 keywords: 
 - hexo
 - theme
@@ -16,7 +16,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://krt.moe
+url: https://ruollin.github.io
 permalink: posts/:title/
 permalink_defaults:
 pretty_urls:
@@ -71,7 +71,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: 无家可归的文章君T-T
+default_category: "null"
 category_map:
 tag_map:
 
