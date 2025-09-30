@@ -1,0 +1,36 @@
+{
+    "comments":[
+        "这里是音乐的索引文件",
+        "按理来说你应该不需要爬这个，直接去储存库的 /public/meta/files/music 下面找就是",
+        "当然你想爬我也没法阻止你，但是显然这个效率不如直接 Git Clone 快"
+    ],
+    "musics":[
+        {
+            "name":"世末歌者",
+            "album":"世末歌者",
+            "author":"COP",
+            "bv":"",
+            "singer":"乐正绫",
+            "lrc":"",
+            "file":[]
+        },
+        {
+            "name":"我一直在驻足等候",
+            "album":"万有绫力",
+            "author":"COP",
+            "bv":"",
+            "singer":"乐正绫",
+            "lrc":"",
+            "file":[]
+        },
+        {
+            "name":"光与影的对白",
+            "album":"依如初见",
+            "author":"COP",
+            "bv":"",
+            "singer":"洛天依",
+            "lrc":"",
+            "file":[]
+        }
+    ]
+}
