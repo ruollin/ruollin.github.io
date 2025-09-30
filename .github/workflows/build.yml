@@ -1,7 +1,5 @@
 name: Build
 
-permissions:
-  contents: Write
 
 on:
   push:
