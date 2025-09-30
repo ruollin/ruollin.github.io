@@ -46,10 +46,10 @@ footer:
       link: /atom.xml
   components:
     uptime:
-      since: "2018/05/06 17:03:12"
+      since: "2025/09/30 13:21:00"
       text: "本站已在风雨中飘摇"
     author:
-      homepage: "https://github.com/Candinya/Kratos-Rebirth/graphs/contributors"
+      homepage: "https://github.com/ruollin/ruollin.github.io/graphs/contributors"
     additional: # 托管信息等
       - - 由 <a href="https://hexo.io" target="_blank" rel="nofollow">Hexo</a> 强力驱动
         - 在 <a href="https://github.io" target="_blank">Github Pages</a> 暖心托管
