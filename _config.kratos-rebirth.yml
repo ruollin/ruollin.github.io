@@ -11,12 +11,9 @@ search:
 image:
   favicon: "/assets/208010141.png" # 站点图标
   avatar: "/assets/208010141.png" # 个人信息挂件上的头像
-  banner:
-    light: "https://dev.krt.moe/demo-assets/banner.webp"
-    dark: "https://dev.krt.moe/demo-assets/banner_dark.webp"
   background:
-    light: "https://dev.krt.moe/demo-assets/bg.webp"
-    dark: "https://dev.krt.moe/demo-assets/bg.webp"
+    light: "/assets/shimogezhe.jpg"
+    dark: "/assets/shimogezhe.jpg"
 
 # 顶部导航栏配置
 nav:
@@ -27,21 +24,21 @@ nav:
     - label: 档案馆
       icon: file
       url: /archives/
+    - label: 友情链接
+      icon: link
+      url: /website/friend
     - label: 链接
       icon: link
       submenu:
         - label: 代码仓库
           icon: code
-          url: https://github.com/Candinya/Kratos-Rebirth
-        - label: 项目文档
-          icon: book
-          url: https://wiki.krt.moe
+          url: https://github.com/ruollin/ruollin/ruollin.github.io
 
 # Footer 页脚配置
 footer:
   links:
     - icon: github
-      link: https://github.com/kratos-rebirth
+      link: https://github.com/ruollin/ruollin/ruollin.github.io
     - icon: rss
       link: /atom.xml
   components:
