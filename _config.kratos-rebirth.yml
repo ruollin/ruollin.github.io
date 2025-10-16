@@ -32,7 +32,7 @@ nav:
       submenu:
         - label: 代码仓库
           icon: code
-          url: https://github.com/ruollin/ruollin/ruollin.github.io
+          url: https://github.com/ruollin/ruollin.github.io
 
 # Footer 页脚配置
 footer:
