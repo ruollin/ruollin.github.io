@@ -26,7 +26,7 @@ nav:
       url: /archives/
     - label: 友情链接
       icon: link
-      url: /website/friend
+      url: /posts/website/friend
     - label: 链接
       icon: link
       submenu:
