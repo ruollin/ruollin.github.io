@@ -50,6 +50,7 @@ footer:
     additional: # 托管信息等
       - - 由 <a href="https://hexo.io" target="_blank" rel="nofollow">Hexo</a> 强力驱动
         - 在 <a href="https://github.io" target="_blank">Github Pages</a> 暖心托管
+      - - 本站正在使用 <a href="https://statcounter.com" target="_blank" rel="nofollow">STAT Counter</a> 统计网站访问数据，感谢他们乱插的 HTML 代码（恼
 
 # 代码高亮
 # syntax_highlighter:
