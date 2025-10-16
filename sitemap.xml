@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ruollin.github.io/posts/hello-world/</loc>
+    <loc>https://ruollin.github.io/posts/website/friend/</loc>
     
-    <lastmod>2025-10-01T05:35:22.450Z</lastmod>
+    <lastmod>2025-10-16T02:37:11.849Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ruollin.github.io/posts/minecraft/mod/forge/Mod-%E5%BC%80%E5%8F%91/</loc>
+    
+    <lastmod>2025-10-16T02:37:11.849Z</lastmod>
     
   </url>
   

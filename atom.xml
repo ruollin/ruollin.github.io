@@ -6,7 +6,7 @@
   <link href="https://ruollin.github.io/atom.xml" rel="self"/>
   
   <link href="https://ruollin.github.io/"/>
-  <updated>2025-10-01T05:35:22.450Z</updated>
+  <updated>2025-10-16T02:37:11.849Z</updated>
   <id>https://ruollin.github.io/</id>
   
   <author>
@@ -17,27 +17,52 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>你好，世界！</title>
-    <link href="https://ruollin.github.io/posts/hello-world/"/>
-    <id>https://ruollin.github.io/posts/hello-world/</id>
-    <published>2018-05-06T17:03:12.000Z</published>
-    <updated>2025-10-01T05:35:22.450Z</updated>
+    <title>Forge Mod 开发日记</title>
+    <link href="https://ruollin.github.io/posts/minecraft/mod/forge/Mod-%E5%BC%80%E5%8F%91/"/>
+    <id>https://ruollin.github.io/posts/minecraft/mod/forge/Mod-%E5%BC%80%E5%8F%91/</id>
+    <published>2025-10-04T22:56:41.000Z</published>
+    <updated>2025-10-16T02:37:11.849Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎使用 <code>Kratos : Rebirth</code> 这个我们精心打造的 Hexo 主题！希望能在接下来的旅途中与您相伴，共同创造出更多难以忘怀的美好体验。</p>]]></content>
+    <content type="html"><![CDATA[<p>预留一篇专栏给 Mod 开发用。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;欢迎使用 &lt;code&gt;Kratos : Rebirth&lt;/code&gt; 这个我们精心打造的 Hexo 主题！希望能在接下来的旅途中与您相伴，共同创造出更多难以忘怀的美好体验。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;预留一篇专栏给 Mod 开发用。&lt;/p&gt;
 </summary>
       
     
     
     
-    <category term="全新体验" scheme="https://ruollin.github.io/categories/%E5%85%A8%E6%96%B0%E4%BD%93%E9%AA%8C/"/>
+    
+    <category term="Mod" scheme="https://ruollin.github.io/tags/Mod/"/>
+    
+    <category term="Develop" scheme="https://ruollin.github.io/tags/Develop/"/>
+    
+    <category term="Minecraft" scheme="https://ruollin.github.io/tags/Minecraft/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>友情链接</title>
+    <link href="https://ruollin.github.io/posts/website/friend/"/>
+    <id>https://ruollin.github.io/posts/website/friend/</id>
+    <published>2025-10-04T22:31:27.000Z</published>
+    <updated>2025-10-16T02:37:11.849Z</updated>
+    
+    <content type="html"><![CDATA[<div class="kr-linklist">    <ul class="kr-linklist-container"><li>          <a target="_blank" href="https://suki.ink">            <img src="https://q.qlogo.cn/g?b=qq&nk=1851466055&s=640" alt=Hill233的小窝 />            <div>              <span>Hill233的小窝</span>              <p>只是一个普普通通的 blog 罢了</p>            </div>          </a>        </li></ul>      </div>]]></content>
     
     
-    <category term="欢迎" scheme="https://ruollin.github.io/tags/%E6%AC%A2%E8%BF%8E/"/>
+      
+      
+    <summary type="html">&lt;div class=&quot;kr-linklist&quot;&gt;
+    &lt;ul class=&quot;kr-linklist-container&quot;&gt;&lt;li&gt;
+          &lt;a target=&quot;_blank&quot; href=&quot;https://suki.ink&quot;&gt;
+            &lt;img </summary>
+      
+    
+    
+    
     
   </entry>
   
